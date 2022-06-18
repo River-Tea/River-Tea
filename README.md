@@ -28,7 +28,7 @@
 
 <div align="center">
   <h3> MY STATS </h3>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=River-Tea&theme=onedark_duo&hide_border=true" /> 
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=River-Tea&theme=gruvbox_duo&hide_border=true" /> 
 </div>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=River-Tea&layout=compact)](https://github.com/River-Tea/github-readme-stats) -->
 
