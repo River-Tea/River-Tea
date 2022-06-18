@@ -27,8 +27,14 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+  <h3> MY STATS </h3>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=River-Tea&theme=onedark_duo&hide_border=true" /> 
 </div>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=River-Tea&layout=compact)](https://github.com/River-Tea/github-readme-stats) -->
+
+<!-- <div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+</div> -->
 
 </div>
 
@@ -40,13 +46,6 @@ I am a junior <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.g
 - 🍵 Watching movie and listening to music are my cup of tea.
 - ⚡ In the future, I wish to work as a Web developer.
 
----
-
-<div align="center">
-  <h3> MY STATS </h3>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=River-Tea&theme=onedark_duo&hide_border=true" /> 
-</div>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=River-Tea&layout=compact)](https://github.com/River-Tea/github-readme-stats) -->
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
