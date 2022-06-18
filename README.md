@@ -40,7 +40,7 @@
 
 ---
 ### :woman_technologist: About Me :
-I am a junior <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="30"> from Vietnam.
+I am a junior <img src="https://media.giphy.com/media/1m74tPnrcfw0gMyTel/giphy.gif" width="30"> from Vietnam.
 - 🌱 I'm currently learning Multimedia Application Development at Post and Telecommunication Institute of Technology in Ho Chi Minh city.
 - 🔥 I'm interested in Web Development.
 - 🍵 Watching movie and listening to music are my cup of tea.
