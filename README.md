@@ -10,7 +10,7 @@
   </a>
   <a href="https://twitter.com/yangie_rt">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
-  </a>
+  </a> <br>
   <a href="https://discord.gg/ZDbdfVaX">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
   </a>
