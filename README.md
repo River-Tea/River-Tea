@@ -19,7 +19,8 @@
   </a>
   </br>
 </div>
-<img src="https://komarev.com/ghpvc/?username=River-Tea&style=flat&color=brightgreen" alt=""/>
+<!-- <img src="https://komarev.com/ghpvc/?username=River-Tea&style=flat&color=brightgreen" alt=""/> -->
+
 
 <h1>
   Hey there, I'm Joyce
