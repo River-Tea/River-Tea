@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/9cghZPGI3DiSygM6j7/giphy.gif" width="250"/>
   
 <div id="badges" align="center">
   <a href="https://www.facebook.com/iam.rivertea/">
