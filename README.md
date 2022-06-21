@@ -39,7 +39,7 @@
 </div>
 
 ---
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 I am a junior <img src="https://media.giphy.com/media/1m74tPnrcfw0gMyTel/giphy.gif" width="30"> from Vietnam.
 - 🌱 I'm currently learning Multimedia Application Development at Post and Telecommunication Institute of Technology in Ho Chi Minh city.
 - 🔥 I'm interested in Web Development.
@@ -48,8 +48,8 @@ I am a junior <img src="https://media.giphy.com/media/1m74tPnrcfw0gMyTel/giphy.g
 
 
 ---
-### :hammer_and_wrench: Languages and Tools :
-#### Using :
+## :hammer_and_wrench: Languages and Tools :
+> #### __Using__ :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -58,7 +58,7 @@ I am a junior <img src="https://media.giphy.com/media/1m74tPnrcfw0gMyTel/giphy.g
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS code" **alt="VS code" width="40" height="40">
 </div>
 
-#### Learning :
+> #### __Learning__ :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
