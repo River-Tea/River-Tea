@@ -40,11 +40,11 @@
 
 ---
 ## :woman_technologist: About Me :
-I am a junior <img src="https://media.giphy.com/media/1m74tPnrcfw0gMyTel/giphy.gif" width="30"> from Vietnam.
+I am a senior <img src="https://media.giphy.com/media/1m74tPnrcfw0gMyTel/giphy.gif" width="30"> from Vietnam.
 - 🌱 I'm currently learning Multimedia Application Development at Post and Telecommunication Institute of Technology in Ho Chi Minh city.
-- 🔥 I'm interested in Web Development.
+- 🔥 I'm interested in Android Development.
 - 🍵 Watching movie and listening to music are my cup of tea.
-- ⚡ In the future, I wish to work as a Web developer.
+- ⚡ In the future, I wish to work as a Android developer.
 
 
 ---
