@@ -14,7 +14,7 @@
   <a href="https://discord.gg/ZDbdfVaX">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/tra-giang-phan-1692b4270/">
+  <a href="https://www.linkedin.com/in/tra-giang-phan/">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
   </a>
   </br>
