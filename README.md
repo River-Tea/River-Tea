@@ -22,7 +22,7 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=River-Tea&style=flat&color=brightgreen" alt=""/> -->
 
 <h1>
-  Hey there, I'm Joyce
+  Hey there, I'm Gwyneth
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h1>
 
